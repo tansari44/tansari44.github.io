@@ -17,6 +17,29 @@
     background-position: center;
 }
 
+/* Updated CSS for the Resume button */
+.resume-badge {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    margin: 1rem 0 0 0;
+    border-radius: 9999px;
+    background-color: #fff;
+    color: #000;
+    font-family: 'Courier Prime', monospace;
+    font-size: 1rem;
+    font-weight: 500;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .resume-badge:hover {
+    background-color: #f4f4f4;
+    border-color: #ccc;
+  }
+  
+  
+
 .about-section .content {
     text-align: left;
     z-index: 2;

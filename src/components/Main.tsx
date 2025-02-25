@@ -18,7 +18,7 @@ function Main() {
           </div>
           <h1>Tanzil Ansari</h1>
           <p>Software Engineer</p>
-          <a href="/Resume.pdf" className="resume-badge">
+          <a href="/Tanzil Ansari - Resume 7.pdf" className="resume-badge">
             Resume
           </a>
 

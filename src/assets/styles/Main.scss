@@ -75,8 +75,11 @@
 .about-section .image-wrapper {
     z-index: 2;
     img {
-        width: 150px;
+        width: 210px;
+        height: 210px;
         border-radius: 50%;
+        object-fit: cover;
+        display: block;
     }
 }
 
@@ -173,6 +176,11 @@
         .about-section .image-wrapper {
             padding-left: 5%;
             width: 100%;
+
+            img {
+                width: 160px;
+                height: 160px;
+            }
         }
     }
 }

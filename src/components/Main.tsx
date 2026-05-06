@@ -19,7 +19,7 @@ function Main() {
           </div>
           <h1>Tanzil Ansari</h1>
           <p>Software Engineer</p>
-          <a href="/Tanzil Ansari - Resume 8.pdf" className="resume-badge">
+          <a href="/Resume.pdf" className="resume-badge" target="_blank" rel="noreferrer noopener">
             Resume
           </a>
 
